@@ -64,3 +64,5 @@ def suffix(string1, string2):
     # Extract a substring from string1 and return it.
     suf = string1[i1+1 : ]
     return suf
+
+#new comment
